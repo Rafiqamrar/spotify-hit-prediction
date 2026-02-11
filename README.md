@@ -311,14 +311,10 @@ Based on our analysis, a song is more likely to be a hit if it has:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
-Data Science Project - Spotify Music Success Prediction
-
+RAFIQ AMRAR 
 ---
 
 ⭐ If you found this project useful, please consider giving it a star!
